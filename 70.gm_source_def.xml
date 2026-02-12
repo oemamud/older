@@ -6,7 +6,7 @@
   <LatLonBounds>117.089538574,-0.49712511,117.09777832,-0.49025891</LatLonBounds>
   <NumZoomLevels>23</NumZoomLevels>
   <TileSize>256</TileSize>
-  <BaseURL><https://github.com/oemamud/older/tree/main/Z%z/%y/%x.png]]></BaseURL>
+  <BaseURL><https://github.com/oemamud/older/main/Z%z/%y/%x.png]]></BaseURL>
   <NativeProj>EPSG:3857</NativeProj>
 </source>
 </source_list>
